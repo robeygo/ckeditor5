@@ -98,6 +98,7 @@
     "@wiris/mathtype-ckeditor5": "^7.24.0",
     "babel-standalone": "^6.26.0",
     "chalk": "^4.1.0",
+    "ckeditor5-build-decoupled-document-custom": "^12.4.0",
     "cli-table": "^0.3.1",
     "coveralls": "^3.1.0",
     "css-loader": "^5.2.7",
